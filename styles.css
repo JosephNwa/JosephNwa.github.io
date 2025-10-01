@@ -6,3 +6,19 @@ body {
 h1 {
     text-align: center; color: blueviolet;
 }
+
+#about {
+    text-align: center; color: brown;
+}
+
+#skill {
+    text-align: center; color: blue;
+}
+
+#projects {
+    color: chartreuse;
+}
+
+#contact {
+    color: darkorchid;
+}
