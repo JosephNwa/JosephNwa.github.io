@@ -7,18 +7,18 @@ h1 {
     text-align: center; color: blueviolet;
 }
 
-#about {
+.about {
     text-align: center; color: brown;
 }
 
-#skill {
+.skill {
     text-align: center; color: blue;
 }
 
-#projects {
+.projects {
     color: chartreuse;
 }
 
-#contact {
+.contact {
     color: darkorchid;
 }
