@@ -26,5 +26,5 @@ border-radius: 25%;
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 
 .contact {
-    color: darkorchid;
+    color: #327ccc;
 }
